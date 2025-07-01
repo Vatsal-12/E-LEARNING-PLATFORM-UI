@@ -61,7 +61,6 @@ This platform simulates how a real e-learning website works on the frontend and 
 - Typography: Clean sans-serif (Poppins)
 - User Experience: Simple, intuitive, and minimal distractions for an easy learning environment.
 
---
 
 ## Future Enhancements (Optional Ideas)
 
@@ -71,9 +70,16 @@ This platform simulates how a real e-learning website works on the frontend and 
 - Mobile-optimized version using media queries or Bootstrap/Tailwind CSS.
 - Dynamic course loading via JavaScript JSON or APIs.
 
---
 
 ## OUTPUT
 
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/1862938d-4e4f-4e8e-9877-b90014a6a924" />
 
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/3cfe5178-7a35-4b7c-905d-cf40ca18ca75" />
+
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/e047a8cb-7d13-449c-b6be-e1f77b7f9740" />
+
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/216de05b-091b-4610-b261-f160eda760f1" />
+
+<img width="1280" alt="Image" src="https://github.com/user-attachments/assets/3673f03e-e478-475a-9c83-af9228fb5940" />
 
